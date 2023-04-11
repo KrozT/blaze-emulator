@@ -1,0 +1,24 @@
+.DS_Store
+.thumbs.db
+
+# Environment
+.env
+/venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Unrelated directories
+/dist
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
