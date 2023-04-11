@@ -33,7 +33,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="https://i.imgur.com/7rOkGZ4.png" alt="Logo" width="220" height="220">
+    <img src="https://i.imgur.com/7rOkGZ4.png" alt="Logo" width="180" height="180">
   </a>
 
 <h3 align="center">Blaze Emulator</h3>
@@ -102,6 +102,7 @@ Started in 2015 with a very primitive version as a first learning project on Pyt
 
 ### Packages
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
+- [loguru](https://pypi.org/project/loguru/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +132,7 @@ Started in 2015 with a very primitive version as a first learning project on Pyt
    ```
 4. Start the emulator
    ```sh
-   python main.py
+   python -m main
    ```
 
 
