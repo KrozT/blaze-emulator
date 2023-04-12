@@ -114,23 +114,23 @@ Started in 2015 with a very primitive version as a first learning project on Pyt
 ### Installation
 
 1. Get the right functional client, you can find it here:
-- [RageZone](https://forum.ragezone.com/community/habbo-releases.353/)
-<br>
+   - [RageZone](https://forum.ragezone.com/community/habbo-releases.353/)
+   <br>
 
-1. Clone the repo
+2. Clone the repo
    ```sh
    git clone https://github.com/KrozT/blaze-emulator.git
    ```
-2. Install dependencies
+3. Install dependencies
    ```sh
    python -m pip install .
    ```
-3. Add the necessary environment variables
+4. Add the necessary environment variables
    ```sh
    SERVER_IP='SOCKET SERVER IP'
    SERVER_PORT='SOCKET SERVER PORT'
    ```
-4. Start the emulator
+5. Start the emulator
    ```sh
    python -m main
    ```
